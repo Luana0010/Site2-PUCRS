@@ -1,0 +1,21 @@
+{
+  "disciplina": "Sistema Web PetShop RoyalPet",
+  "projeto": "Fase 2 - Fundamentos de Sistemas Web",
+  "autora": "Luana de Lima Kanitz",
+  "ano": 2025,
+
+  "descricao_geral": "Atualização da Fase 1: adição de estilo (Bootstrap + CSS), carrossel, formulário de cadastro e agendamento, e funcionalidades em JavaScript.",
+  "funcionalidades": {
+    "carrossel": "Carrossel responsivo na página inicial exibindo imagens promocionais (acessível via aria-label).",
+    "catalogo": "Páginas de produtos com cartões, imagens padronizadas (class 'produto'), descrição e preço.",
+    "servicos": "Página de serviços com descrição e preços (banho e tosa; com e sem tele-busca).",
+    "formulario": "Formulário de cadastro do cliente e do pet, com campos obrigatórios, data/hora para agendamento e opções de tele-busca/entrega.",
+    "javascript": "Validação básica do formulário e exibição dinâmica da data/hora no rodapé.",
+    "acessibilidade": "Atributos alt em imagens, labels associados a inputs, aria-labels no menu e no carrossel, aria-live para atualizações dinâmicas."
+  },
+  "acessibilidade": "Uso de textos alternativos (alt) nas imagens, labels associadas a campos de formulário e contraste adequado nas cores.",
+  "links": {
+    "github": "https://github.com/Luana0010/Site-PUCRS",
+    "github_pages": "https://luana0010.github.io/Site-PUCRS/"
+  }
+}
