@@ -89,5 +89,3 @@ Transformar o sistema web do RoyalPet em uma plataforma mais dinâmica, acessív
 - Desenvolver o formulário completo de cadastro e agendamento.  
 - Garantir acessibilidade mínima para deficientes visuais.  
 - Organizar o código em páginas separadas, limpas e comentadas.  
-
----
